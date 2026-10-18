@@ -18,9 +18,9 @@
 ### 历史城市形态与道路网络量化
 ### Historical Urban Morphology & Road Network Quantification
 
-把 **1,392 座**清代县城的道路网从历史地图逐条数字化，提出"规整—有机指数"（Geometric–Organic Index, GOI），用可计算的数字区分"被规划出来的城"与"自己长出来的城"；结合历史 GIS 与 NetLogo 多智能体模拟，重建清代城市路网与空间演变。
+先在历史地图上完成 **1,392 座**清代县城的空间信息数字化建档，再对其中 **256 座**逐条矢量化道路网络，提出"规整—有机指数"（Geometric–Organic Index, GOI），用可计算的数字区分"被规划出来的城"与"自己长出来的城"；结合历史 GIS 与 NetLogo 多智能体模拟，重建清代城市路网与空间演变。
 
-*Digitized the road networks of **1,392** Qing dynasty county cities from historical maps, and proposed the Geometric–Organic Index (GOI) — a computable measure that separates planned cities from organically grown ones. Combines historical GIS with NetLogo agent-based simulation to reconstruct urban road networks and their spatial evolution.*
+*Digitized the spatial records of **1,392** Qing dynasty county cities from historical maps, then vectorised the road networks of **256** of them street by street, and proposed the Geometric–Organic Index (GOI) — a computable measure that separates planned cities from organically grown ones. Combines historical GIS with NetLogo agent-based simulation to reconstruct urban road networks and their spatial evolution.*
 
 ### 文化遗产无损检测
 ### Non-destructive Testing of Built Heritage
